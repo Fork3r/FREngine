@@ -1,0 +1,6 @@
+[submodule "FRRenderer"]
+	path = FRRenderer
+	url = git@github.com:Fork3r/FRRenderer.git
+[submodule "FRMath"]
+	path = FRMath
+	url = git@github.com:Fork3r/FRMath.git
